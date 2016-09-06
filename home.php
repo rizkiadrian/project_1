@@ -1,4 +1,3 @@
 <?php
-
-echo "home";
+echo "homeeee";
 ?>
